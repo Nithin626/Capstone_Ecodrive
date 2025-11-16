@@ -16,6 +16,7 @@ import random
 from sqlalchemy import func
 
 
+
 # Load environment variables
 load_dotenv()
 
